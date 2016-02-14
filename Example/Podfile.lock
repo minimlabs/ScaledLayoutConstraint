@@ -1,0 +1,17 @@
+PODS:
+  - DeviceGuru (1.3.3)
+  - ScaledLayoutConstraint (0.1):
+    - DeviceGuru (~> 1.3.3)
+
+DEPENDENCIES:
+  - ScaledLayoutConstraint (from `..`)
+
+EXTERNAL SOURCES:
+  ScaledLayoutConstraint:
+    :path: ..
+
+SPEC CHECKSUMS:
+  DeviceGuru: 49c6178d77693f8459ace21cecaf4d1d26297d08
+  ScaledLayoutConstraint: 2a64b156af7b31bd2da0ee6cc3265103f868d521
+
+COCOAPODS: 0.39.0
